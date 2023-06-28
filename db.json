@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Banana",
+      "image": "https://www.bhg.com/thmb/y3MKc0c8Lv9AXJAsK7KcuoDRy24=/1500x0/filters:no_upscale():strip_icc()/indoor-banana-plant-615d519579014b9db8f32b704d46b849.jpg",
+      "price": "0.01",
+      "id": 8
     }
   ]
 }
